@@ -14,3 +14,7 @@ footer {
     text-align: center;
     color:darkblue;
 }
+
+.links{
+    display: flex;
+}
